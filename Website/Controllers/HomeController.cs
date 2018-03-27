@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Website.Models;
+using Widzzle.Models;
 
-namespace Website.Controllers
+namespace Widzzle.Controllers
 {
     public class HomeController : Controller
     {

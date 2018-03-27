@@ -1,6 +1,6 @@
 using System;
 
-namespace Website.Models
+namespace Widzzle.Models
 {
     public class ErrorViewModel
     {
